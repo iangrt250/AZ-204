@@ -1,4 +1,4 @@
-# Azure Event Grid
+   # Azure Event Grid
 
 Question: Which of the following event schema properties requires a value?
 
